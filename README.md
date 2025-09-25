@@ -83,17 +83,4 @@ O **Movies+** é um aplicativo mobile desenvolvido em React Native com Expo que 
 └── constants/            # Constantes (ícones, imagens)
 ```
 
-## Requisitos Atendidos
-
-Este projeto foi desenvolvido como parte da **Avaliação IA 1** e implementa todos os conceitos obrigatórios:
-
-- ✅ **Estilização**: StyleSheet e TailwindCSS
-- ✅ **Componentização**: Componentes reutilizáveis modulares
-- ✅ **Navegação**: Stack e Tab Navigator
-- ✅ **Listas Dinâmicas**: FlatList para renderização de filmes
-- ✅ **Visualização de Rolagem**: ScrollView implementado
-- ✅ **Componentes Básicos**: View, Text, Image, TextInput, TouchableOpacity, etc.
-
----
-
 **Desenvolvido por Felipe Clink e Estefany Lika**
