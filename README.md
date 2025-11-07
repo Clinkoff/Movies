@@ -113,6 +113,10 @@ O design foi pensado para oferecer uma experiência fluida, organizada e visualm
 #### Tela de Perfil
 
 [Tela de Perfil](./assets/readme/perfil.jpg)
+
+<p align="center">
+  <img src="./assets/readme/home.jpg" width="250"/>
+</p>
 A tela de perfil combina informações do usuário com um design elegante em tons de roxo e azul.  
 Entre os elementos visuais presentes:
 
