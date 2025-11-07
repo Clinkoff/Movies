@@ -112,11 +112,10 @@ O design foi pensado para oferecer uma experiência fluida, organizada e visualm
 
 #### Tela de Perfil
 
-[Tela de Perfil](./assets/readme/perfil.jpg)
-
 <p align="center">
   <img src="./assets/readme/perfil.jpg" width="250"/>
 </p>
+
 A tela de perfil combina informações do usuário com um design elegante em tons de roxo e azul.  
 Entre os elementos visuais presentes:
 
@@ -131,6 +130,10 @@ Entre os elementos visuais presentes:
 #### Tela de Favoritos
 
 [Tela de favoritos](./assets//readme/favoritos.jpg)
+
+<p align="center">
+  <img src="./assets/readme/favoritos.jpg" width="250"/>
+</p>
 A aba de favoritos utiliza um layout minimalista enquanto a funcionalidade é desenvolvida.  
 Ela apresenta:
 
@@ -142,7 +145,10 @@ Ela apresenta:
 
 #### Tela de Pesquisa
 
-[Tela de Pesquisa](./assets/readme/serach.jpg)
+<p align="center">
+  <img src="./assets/readme/serach.jpg" width="250"/>
+</p>
+
 A tela de pesquisa é um dos destaques visuais do app, com:
 
 - Barra de busca estilizada com ícone integrado
@@ -156,7 +162,10 @@ A tela de pesquisa é um dos destaques visuais do app, com:
 
 #### Tela Inicial — Catálogo
 
-[Catálago](./assets/readme/initial.jpg)
+<p align="center">
+  <img src="./assets/readme/initial.jpg" width="250"/>
+</p>
+
 A Home exibe filmes populares utilizando:
 
 - Cards com sombras e bordas arredondadas
@@ -181,8 +190,10 @@ Cada card apresenta:
 ### Navegação Personalizada (Tab Bar)
 
 A navegação inferior conta com:
-[tab bar](./assets/readme/tabbar.jpg)
 
+<p align="center">
+  <img src="./assets/readme/tabbar.jpg" width="250"/>
+</p>
 - Ícones minimalistas
 - Aba ativa com destaque visual
 - Cores que acompanham o tema do app
