@@ -83,4 +83,83 @@ O **Movies+** é um aplicativo mobile desenvolvido em React Native com Expo que 
 └── constants/            # Constantes (ícones, imagens)
 ```
 
+6. **SQLite — Armazenamento Local**
+
+O Movies+ utiliza **SQLite** através do Expo (`expo-sqlite`) para armazenar informações localmente no dispositivo.  
+Isso permite:
+
+- Salvar filmes na aba **Favoritos**
+- Consultar os filmes mesmo sem internet
+- Criar tabelas automaticamente
+- Fazer operações de **CRUD** (Create, Read, Update, Delete## 🎨 Recursos Visuais do Movies+
+
+O **Movies+** apresenta uma interface moderna, escura e estilizada, construída com **NativeWind (Tailwind)** e componentes nativos do React Native.  
+O design foi pensado para oferecer uma experiência fluida, organizada e visualmente agradável, destacando pôsteres, estatísticas e elementos interativos.
+
+---
+
+### Telas Principais e Destaques Visuais
+
+#### Tela de Perfil
+A tela de perfil combina informações do usuário com um design elegante em tons de roxo e azul.  
+Entre os elementos visuais presentes:
+- Avatar estilizado
+- Informações do usuário organizadas em cartões
+- Estatísticas destacadas (Favoritos, Assistidos e Avaliações)
+- Seções bem distribuídas (Favoritos, Histórico, Configurações e Sobre)
+- Botão de “Sair do App” em destaque vermelho para fácil acesso
+---
+
+#### Tela de Favoritos
+A aba de favoritos utiliza um layout minimalista enquanto a funcionalidade é desenvolvida.  
+Ela apresenta:
+- Ícone centralizado
+- Tipografia limpa
+- Layout simples e direto
+---
+
+#### Tela de Pesquisa
+A tela de pesquisa é um dos destaques visuais do app, com:
+- Barra de busca estilizada com ícone integrado
+- Gradiente superior leve e icônico
+- Resultados exibidos em cards responsivos
+- Pôsteres em alta resolução
+- Informações adicionais como nota, ano e data de lançamento
+- Grid organizado com rolagem fluida
+---
+
+#### Tela Inicial — Catálogo
+A Home exibe filmes populares utilizando:
+- Cards com sombras e bordas arredondadas
+- Pôsteres em destaque
+- Grid contínuo de rolagem
+- Navegação inferior (tab bar) personalizada com ícones
+---
+
+### Organização dos Cards de Filmes
+Cada card apresenta:
+- Pôster em alta qualidade
+- Título reduzido com “...” quando necessário
+- Ano de lançamento
+- Nota do filme com ícone de estrela
+- Data de lançamento destacada
+---
+
+### Navegação Personalizada (Tab Bar)
+A navegação inferior conta com:
+- Ícones minimalistas
+- Aba ativa com destaque visual
+- Cores que acompanham o tema do app
+- Feedback visual imediato ao usuário
+---
+
+### Resultado
+O conjunto de elementos visuais cria uma experiência:
+- Moderna  
+- Cinematográfica  
+- Coesa  
+- Fácil de navegar  
+- Agradável tanto no modo claro quanto escuro (tema dark principal)
+
+
 **Desenvolvido por Felipe Clink e Estefany Lika**
